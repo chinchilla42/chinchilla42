@@ -2,5 +2,5 @@
 
 ## About me
 - 🎓 I study web development at OpenClassrooms
-- 🔭 I'm currently working on front end JavaScript
+- 🔭 I'm currently working on an e-commerce website
 - 🌱 I'm currently learning HTML5 CSS3 Sass and JavaScript
