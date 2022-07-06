@@ -2,5 +2,5 @@
 
 ## About me
 - 🎓 I study web development at OpenClassrooms
-- 🔭 I'm currently working on a creating an PAI
+- 🔭 I'm currently working on a creating an API
 - 🌱 I'm currently learning HTML5 CSS3 Sass and JavaScript
