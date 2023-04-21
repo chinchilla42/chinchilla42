@@ -1,6 +1,8 @@
-### Hi I'm @chinchilla42 👋
+### Bonjour, moi c'est Christelle 👋
 
-## About me
-- 🎓 I studied web development at OpenClassrooms
-- 🔭 I'm currently working on personal side projects to improve my knowledge of VueJs 
-- 🌱 I'm currently learning PHP and Symfony
+## 🚀 About me
+- 🌱 Diplômée développeuse web OpenClassrooms
+- 🔭 Disponible immédiatement pour un nouveau challenge
+
+## Mes technologies
+HTML5 CSS JavaScript Vue.JS Node.js MongoDB Git Github 
