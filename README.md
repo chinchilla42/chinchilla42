@@ -1,8 +1,8 @@
-### Bonjour, moi c'est Christelle 👋
+### Hi, I'm Christelle 👋
 
 ## 🚀 About me
-- 🌱 diplômée en développement web
-- 🔭 à la recherche d'un nouveau challenge
+- 🌱 web developer (degree from OpenClassrooms)
+- 🔭 looking for a new challenge
 
-## Mes technologies
+## Technologies and tools
 HTML5 CSS JavaScript Vue.JS Node.js MongoDB Git Github 
